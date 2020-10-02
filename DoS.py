@@ -23,3 +23,4 @@ def ataque():
 for i in range(10000):
     thread = threading.Thread(target = ataque)
     thread.start()
+    
