@@ -1,7 +1,5 @@
 import threading
 import socket
-import os
-import time
 
 obj  = input('Objetivo: ')
 p    = 8080
