@@ -1,3 +1,4 @@
+# No hagas cosas malas
 import threading
 import socket
 
